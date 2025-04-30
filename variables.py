@@ -1,4 +1,4 @@
-# variables
+# Variables
 
 first_name = 'Hazrat'
 last_name = 'Ali'
