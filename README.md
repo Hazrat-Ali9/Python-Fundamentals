@@ -28,6 +28,7 @@ In Python, a variable is a symbolic name that refers to a memory location where 
     print(f'The difference of {a} and {b} is {a - b}')
     print(f'The product of {a} and {b} is {a * b}')
     print(f'The division of {a} and {b} is {a / b}')
+    This repository is helpful for beginners learning Python.
 
 
 
